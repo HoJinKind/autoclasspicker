@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7b30f082-074f-438b-8100-9fbea0e99c3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumClassPicker/BasicUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumClassPicker/BasicUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SeleniumClassPicker/ClassPicker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumClassPicker/ClassPicker.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BasicUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClassPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassPicker.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +79,7 @@
       <workItem from="1568002950410" duration="252000" />
       <workItem from="1568003699034" duration="2060000" />
       <workItem from="1568006116078" duration="6000" />
-      <workItem from="1568006596271" duration="657000" />
+      <workItem from="1568006596271" duration="2102000" />
     </task>
     <servers />
   </component>

@@ -69,7 +69,7 @@ public class BasicUtils {
     public Boolean selectClassTimingPage_stepThree(WebDriver driver, String timing) {
         //TODO need to click the right timing  SSR_PB_SELECT$0, SSR_PB_SELECT$1, depending on class
         String buttonID = "win0divSSR_PB_SELECT$";
-        buttonID = timing.equals("one") ? buttonID.concat("0"):  buttonID.concat("1");
+        buttonID = timing.equals("two") ? buttonID.concat("1"):  buttonID.concat("0");
 
         if (!driver.findElements(By.id(buttonID)).isEmpty()) {
             navigateIframe(commonFrameID, driver);
