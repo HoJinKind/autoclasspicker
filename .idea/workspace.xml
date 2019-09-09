@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b30f082-074f-438b-8100-9fbea0e99c3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumClassPicker/BasicUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumClassPicker/BasicUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SeleniumClassPicker/ClassPicker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumClassPicker/ClassPicker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ClassPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassPicker.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +75,10 @@
       <workItem from="1567489055450" duration="1865000" />
       <workItem from="1567492973920" duration="1550000" />
       <workItem from="1567911319615" duration="1829000" />
-      <workItem from="1567957352430" duration="303000" />
+      <workItem from="1567957352430" duration="1779000" />
+      <workItem from="1567960172402" duration="429000" />
+      <workItem from="1567960709910" duration="294000" />
+      <workItem from="1567962044449" duration="10962000" />
     </task>
     <servers />
   </component>
@@ -95,5 +97,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicUtils.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicUtils.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicUtils.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
