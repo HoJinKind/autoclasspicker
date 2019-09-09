@@ -66,12 +66,14 @@ public class BasicUtils {
     }
 
 
-    public Boolean selectClassTimingPage_stepThree(WebDriver driver) {
+    public Boolean selectClassTimingPage_stepThree(WebDriver driver, String timing) {
         //TODO need to click the right timing  SSR_PB_SELECT$0, SSR_PB_SELECT$1, depending on class
+        String buttonID = "win0divSSR_PB_SELECT$";
+        buttonID = timing.equals("one") ? buttonID.concat("0"):  buttonID.concat("1");
 
-        if (!driver.findElements(By.id("win0divSSR_PB_SELECT$0")).isEmpty()) {
+        if (!driver.findElements(By.id(buttonID)).isEmpty()) {
             navigateIframe(commonFrameID, driver);
-            driver.findElement(By.id("win0divSSR_PB_SELECT$0")).click();
+            driver.findElement(By.id(buttonID)).click();
             return true;
         } else return false;
 
