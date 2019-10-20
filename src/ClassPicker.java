@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class ClassPicker {
 
     public static void main(String[] args) throws IOException, InterruptedException {
-        String username = "1002846";
+        String username = "1001000";
         String password = "Sutd1234";
         //note, sort your mods, by most impt, and if there is only one class, put second value as "one", else, "two"
         //class "one" usually means the earlier class
