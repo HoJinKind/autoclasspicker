@@ -12,18 +12,13 @@ import java.util.List;
 public class ClassPicker {
 
     public static void main(String[] args) throws IOException, InterruptedException {
-        String username = "1001000";
-        String password = "Sutd1234";
-        //note, sort your mods, by most impt, and if there is only one class, put second value as "one", else, "two"
-        //class "one" usually means the earlier class
-        String[][] sessions = {{"02.141","two"},{"50.042","one"}};
         System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--headless", "--disable-gpu", "--window-size=1920,1200","--ignore-certificate-errors");
         WebDriver driver = new ChromeDriver(options);
 //        driver.get("https://linkedin.com/in/fadhli-bafagih-72b286131");
 //        driver.get("https://twitter.com/realDonaldTrump");
-        driver.get("https://www.linkedin.com/in/jin-kind-ho-/");
+        driver.get(args[0]);
         try {
             String text1 = driver.findElement(By.xpath("//*[@class='main']")).getAttribute("innerHTML");
             System.out.println("authwall" + text1);
