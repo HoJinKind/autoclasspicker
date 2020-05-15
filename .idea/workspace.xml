@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SeleniumClassPicker:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7b30f082-074f-438b-8100-9fbea0e99c3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SeleniumClassPicker_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumClassPicker/BasicUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumClassPicker/BasicUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumClassPicker/ClassPicker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumClassPicker/ClassPicker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumClassPicker/META-INF/SeleniumClassPicker.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassPicker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassPicker.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,40 +36,49 @@
   </component>
   <component name="ProjectId" id="1QJFcKSpPu4rnqaIJJOV4b90WvW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/chromedriver_linux64.zip!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/SeleniumClassPicker_jar/SeleniumClassPicker.jar" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="ClassPicker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ClassPicker">
+    <configuration name="ClassPicker" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="MAIN_CLASS_NAME" value="ClassPicker" />
       <module name="SeleniumClassPicker" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ClassPicker" />
-      </list>
-    </recent_temporary>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/SeleniumClassPicker_jar/SeleniumClassPicker.jar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="SeleniumClassPicker" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="SeleniumClassPicker" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClassPicker" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,24 +102,115 @@
       <workItem from="1568003699034" duration="2060000" />
       <workItem from="1568006116078" duration="6000" />
       <workItem from="1568006596271" duration="2102000" />
+      <workItem from="1589427797953" duration="5158000" />
+      <workItem from="1589443132218" duration="224000" />
+      <workItem from="1589443373872" duration="225000" />
+      <workItem from="1589443606074" duration="211000" />
+      <workItem from="1589443832683" duration="225000" />
+      <workItem from="1589444075615" duration="23000000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="1197" width="1024" height="852" key="#Project_Structure" timestamp="1589515749751">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="479" y="117" width="1024" height="852" key="#Project_Structure/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589443995605" />
+    <state x="423" y="1197" key="#Project_Structure/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589515749751" />
+    <state x="269" y="1254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589516884875">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="454" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589444142554" />
+    <state x="269" y="1254" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589516884875" />
+    <state x="331" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1589458295715" />
+    <state x="454" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.0.1848.1080/0.1080.1920.1080@72.0.1848.1080" timestamp="1589434581184" />
+    <state x="703" y="1442" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589514460091">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="703" y="1442" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589514460091" />
+    <state x="735" y="1378" width="424" height="491" key="FileChooserDialogImpl" timestamp="1589515786767">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="779" y="298" width="424" height="491" key="FileChooserDialogImpl/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589443862187" />
+    <state x="735" y="1378" width="424" height="491" key="FileChooserDialogImpl/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589515786767" />
+    <state width="901" height="265" key="GridCell.Tab.0.bottom" timestamp="1589527354173">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1802" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080/72.1107.1848.1053@72.1107.1848.1053" timestamp="1589433488585" />
+    <state width="1802" height="266" key="GridCell.Tab.0.bottom/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589448809692" />
+    <state width="901" height="265" key="GridCell.Tab.0.bottom/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589527354173" />
+    <state width="901" height="257" key="GridCell.Tab.0.bottom/0.1080.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1589467013059" />
+    <state width="878" height="266" key="GridCell.Tab.0.bottom/72.0.1848.1080/0.1080.1920.1080@72.0.1848.1080" timestamp="1589435873387" />
+    <state width="1802" height="266" key="GridCell.Tab.0.bottom/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1589429758315" />
+    <state width="901" height="265" key="GridCell.Tab.0.center" timestamp="1589527354173">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1802" height="266" key="GridCell.Tab.0.center/0.0.1920.1080/72.1107.1848.1053@72.1107.1848.1053" timestamp="1589433488585" />
+    <state width="1802" height="266" key="GridCell.Tab.0.center/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589448809692" />
+    <state width="901" height="265" key="GridCell.Tab.0.center/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589527354173" />
+    <state width="901" height="257" key="GridCell.Tab.0.center/0.1080.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1589467013058" />
+    <state width="878" height="266" key="GridCell.Tab.0.center/72.0.1848.1080/0.1080.1920.1080@72.0.1848.1080" timestamp="1589435873386" />
+    <state width="1802" height="266" key="GridCell.Tab.0.center/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1589429758315" />
+    <state width="901" height="265" key="GridCell.Tab.0.left" timestamp="1589527354173">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1802" height="266" key="GridCell.Tab.0.left/0.0.1920.1080/72.1107.1848.1053@72.1107.1848.1053" timestamp="1589433488585" />
+    <state width="1802" height="266" key="GridCell.Tab.0.left/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589448809692" />
+    <state width="901" height="265" key="GridCell.Tab.0.left/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589527354173" />
+    <state width="901" height="257" key="GridCell.Tab.0.left/0.1080.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1589467013057" />
+    <state width="878" height="266" key="GridCell.Tab.0.left/72.0.1848.1080/0.1080.1920.1080@72.0.1848.1080" timestamp="1589435873386" />
+    <state width="1802" height="266" key="GridCell.Tab.0.left/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1589429758314" />
+    <state width="901" height="265" key="GridCell.Tab.0.right" timestamp="1589527354173">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1802" height="266" key="GridCell.Tab.0.right/0.0.1920.1080/72.1107.1848.1053@72.1107.1848.1053" timestamp="1589433488585" />
+    <state width="1802" height="266" key="GridCell.Tab.0.right/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589448809692" />
+    <state width="901" height="265" key="GridCell.Tab.0.right/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589527354173" />
+    <state width="901" height="257" key="GridCell.Tab.0.right/0.1080.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1589467013058" />
+    <state width="878" height="266" key="GridCell.Tab.0.right/72.0.1848.1080/0.1080.1920.1080@72.0.1848.1080" timestamp="1589435873386" />
+    <state width="1802" height="266" key="GridCell.Tab.0.right/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1589429758315" />
+    <state x="463" y="1221" width="1024" height="852" key="SettingsEditor" timestamp="1589515690735">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="479" y="117" width="1024" height="852" key="SettingsEditor/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589444045303" />
+    <state x="463" y="1221" width="1024" height="852" key="SettingsEditor/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589515690735" />
+    <state x="732" y="1514" width="476" height="273" key="classpath-attribute-editor" timestamp="1589515606699">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="732" y="1514" width="476" height="273" key="classpath-attribute-editor/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589515606699" />
+    <state x="663" y="450" width="636" height="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589514009565">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="663" y="450" width="636" height="236" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589514009565" />
+    <state x="639" y="1352" width="643" height="783" key="find.popup" timestamp="1589514092434">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="639" y="1352" width="643" height="783" key="find.popup/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589514092434" />
+    <state x="687" y="292" width="618" height="522" key="find.popup/0.1080.1920.1080/72.27.1848.1053@72.27.1848.1053" timestamp="1589513832922" />
+    <state x="660" y="785" key="run.anything.popup" timestamp="1589515025543">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="660" y="785" key="run.anything.popup/0.1080.1920.1080/72.27.1848.1053@0.1080.1920.1080" timestamp="1589515025543" />
+    <state x="660" y="173" width="672" height="694" key="search.everywhere.popup" timestamp="1589446978351">
+      <screen x="72" y="0" width="1848" height="1080" />
+    </state>
+    <state x="660" y="173" width="672" height="694" key="search.everywhere.popup/0.1080.1920.1080/72.0.1848.1080@72.0.1848.1080" timestamp="1589446978351" />
+    <state x="660" y="196" width="670" height="676" key="search.everywhere.popup/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1589428111552" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
